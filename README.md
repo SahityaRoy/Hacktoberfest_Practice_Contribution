@@ -121,7 +121,7 @@ Hurray! You successfully made a contribution!
   
 	
 <a href="https://github.com/SahityaRoy/E-Learning-freesite/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SahityaRoy/E-Learning-freesite" />
+  <img src="https://contrib.rocks/image?repo=SahityaRoy/Hacktoberfest_Practice_Contribution" />
 </a>
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
