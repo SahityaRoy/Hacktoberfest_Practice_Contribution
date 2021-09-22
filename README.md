@@ -10,7 +10,7 @@ We have other repositories in the organisation you can contribute to. If you wou
 
 # Hacktoberfest
 
-[![Watch The Video](https://camunda.com/wp-content/uploads/2021/08/Hacktoberfest2021-Thumbnail.jpg)](https://youtu.be/tjH6txTiC6E)
+![Watch The Video](https://camunda.com/wp-content/uploads/2021/08/Hacktoberfest2021-Thumbnail.jpg)
 
 # Hacktoberfest Practice Pull Requests
 
@@ -134,3 +134,5 @@ Hurray! You successfully made a contribution!
 
 - ### Members Name
 - [Priya Chandak](https://github.com/PriyaChandak24)
+
+- [Saurav Mukherjee](https://github.com/SauravMukherjee44)
