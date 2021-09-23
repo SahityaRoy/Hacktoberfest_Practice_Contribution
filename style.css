@@ -118,12 +118,10 @@ body {
 .dark-headline-text {
   color: var(--theme-dark-purple) !important;
 }
-.dark-description-text {
+.dark-description-text, .dark-link {
   color: var(--theme-dark-grey) !important;
 }
-.dark-link {
-  color: var(--theme-dark-grey) !important;
-}
+
 .dark-link:hover {
   color: var(--theme-dark-blue) !important;
 }
@@ -133,12 +131,10 @@ body {
 .light-headline-text {
   color: var(--theme-light-purple) !important;
 }
-.light-description-text {
+.light-description-text, .light-link{
   color: var(--theme-light-grey) !important;
 }
-.light-link {
-  color: var(--theme-light-grey) !important;
-}
+
 .light-link:hover {
   color: var(--theme-light-blue) !important;
 }
