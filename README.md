@@ -133,6 +133,8 @@ Hurray! You successfully made a contribution!
 ## <ins>Hacktoberfest community<ins>
 
 - ### Members Name
+- [Neeraj Kumar Singh](https://github.com/neerajsingh869)
+
 - [Priya Chandak](https://github.com/PriyaChandak24)
 
 - [Saurav Mukherjee](https://github.com/SauravMukherjee44)
