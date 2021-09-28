@@ -44,7 +44,7 @@ Questions can be asked by raising an `Issue`.
   cd Hacktoberfest_Practice_Contribution
 ```
 
-- Make a new branch. Your name would make a good branch because it's unique
+- Make a new branch. Your name would make a good branch because it's unique!
 
 ```
   git checkout -b <name of new branch>
@@ -53,7 +53,7 @@ Questions can be asked by raising an `Issue`.
 - Open the file `index.html`
 - Open images file and add your photo
 
-- #### Add your name linkedin or other url according to he code please read it carefully.
+- #### Add your name linkedin or other url according to the code please read it carefully.
 
 - For example ,
   `- <div class="contentBx"> <h4>Sahitya Roy</h4> <h5>Founder Of Eduhub community</h5> </div> <div class="sci"> <a href="https://linkedin.com/in/sahitya-roy-244b941a2/"><i class="fa fa-linkedin" aria-hidden="true"></i></a> <a href="https://twitter.com/SahityaRoy07"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug"><i class="fa fa-youtube" aria-hidden="true"></i></a> </div> </div> </div>`
@@ -133,6 +133,8 @@ Hurray! You successfully made a contribution!
 ## <ins>Hacktoberfest community<ins>
 
 - ### Members Name
+- [Neeraj Kumar Singh](https://github.com/neerajsingh869)
+
 - [Priya Chandak](https://github.com/PriyaChandak24)
 
 - [Saurav Mukherjee](https://github.com/SauravMukherjee44)
