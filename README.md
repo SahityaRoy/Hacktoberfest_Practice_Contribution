@@ -1,4 +1,5 @@
 # Hacktoberfest_Practice_Contribution
+
 Hacktoberfest is a month long event where people are awarded for contributing to open source projects 🙌, and we're joining the party .Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
 
 <b>This repo is <u>not</u> included in the Hacktoberfest event, as it is for practice only</b>
@@ -9,8 +10,7 @@ We have other repositories in the organisation you can contribute to. If you wou
 
 # Hacktoberfest
 
-[![Watch The Video](https://camunda.com/wp-content/uploads/2021/08/Hacktoberfest2021-Thumbnail.jpg)](https://youtu.be/tjH6txTiC6E)
-
+![Watch The Video](https://camunda.com/wp-content/uploads/2021/08/Hacktoberfest2021-Thumbnail.jpg)
 
 # Hacktoberfest Practice Pull Requests
 
@@ -44,7 +44,7 @@ Questions can be asked by raising an `Issue`.
   cd Hacktoberfest_Practice_Contribution
 ```
 
-- Make a new branch. Your name would make a good branch because it's unique
+- Make a new branch. Your name would make a good branch because it's unique!
 
 ```
   git checkout -b <name of new branch>
@@ -53,26 +53,17 @@ Questions can be asked by raising an `Issue`.
 - Open the file `index.html`
 - Open images file and add your photo
 
-- #### Add your name linkedin or other url according to he code please read it carefully.
+- #### Add your name linkedin or other url according to the code please read it carefully.
 
 - For example ,
-  `- <div class="contentBx">
-                    <h4>Sahitya Roy</h4>
-                    <h5>Founder Of Eduhub community</h5>
-                </div>
-                <div class="sci">
-                    <a href="https://linkedin.com/in/sahitya-roy-244b941a2/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                    <a href="https://twitter.com/SahityaRoy07"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                    <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug"><i class="fa fa-youtube" aria-hidden="true"></i></a>
-                </div>
-            </div>
-        </div>`
+  `- <div class="contentBx"> <h4>Sahitya Roy</h4> <h5>Founder Of Eduhub community</h5> </div> <div class="sci"> <a href="https://linkedin.com/in/sahitya-roy-244b941a2/"><i class="fa fa-linkedin" aria-hidden="true"></i></a> <a href="https://twitter.com/SahityaRoy07"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug"><i class="fa fa-youtube" aria-hidden="true"></i></a> </div> </div> </div>`
 
 - Stage your changes
 
 ```
   git add index.html
 ```
+
 or
 
 ```
@@ -113,6 +104,28 @@ or
 
 Hurray! You successfully made a contribution!
 
+<h1 align=center> Project Admin ❤️ </h1>
+<p align="center">
+  <a href="https://github.com/SahityaRoy"><img src="https://avatars.githubusercontent.com/u/72821604?v=4" width=150px height=150px /></a> 
+    
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/sahitya-roy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/SahityaRoy07"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sahitya.roy@uem.edu.in?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://SahityaRoy.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+	
+	
+<h1 align=center> OUR VALUABLE CONTRIBUTORS✨ </h1>
+<p align="center">
+  
+	
+<a href="https://github.com/SahityaRoy/E-Learning-freesite/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SahityaRoy/Hacktoberfest_Practice_Contribution" />
+</a>
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
 ---
 
 # If You don't know HTML then Simply Add Your Name and GitHub Url Over README.md file
@@ -120,6 +133,9 @@ Hurray! You successfully made a contribution!
 ## <ins>Hacktoberfest community<ins>
 
 - ### Members Name
+- [Neeraj Kumar Singh](https://github.com/neerajsingh869)
+
 - [Priya Chandak](https://github.com/PriyaChandak24)
 - [Prajwal Benedict A](https://github.com/BENEDICT9845)
 
+- [Saurav Mukherjee](https://github.com/SauravMukherjee44)
