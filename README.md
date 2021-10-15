@@ -136,6 +136,7 @@ Hurray! You successfully made a contribution!
 - [Neeraj Kumar Singh](https://github.com/neerajsingh869)
 
 - [Priya Chandak](https://github.com/PriyaChandak24)
+- [Prajwal Benedict A](https://github.com/BENEDICT9845)
 
 - [Saurav Mukherjee](https://github.com/SauravMukherjee44)
 
