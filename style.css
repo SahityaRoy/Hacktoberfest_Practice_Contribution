@@ -35,10 +35,11 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  margin: 20px;
 }
 .container .card {
   width: 330px;
-  height: 416px;
+  height: 450px;
   padding: 60px 30px;
   margin: 20px;
   border-radius: 20px;
@@ -78,6 +79,7 @@ body {
 }
 .container .card .content .sci {
   margin-top: 20px;
+  text-align: center;
 }
 .container .card .content .sci a {
   text-decoration: none;
