@@ -6,7 +6,7 @@ We have other repositories in the organisation you can contribute to. If you wou
 
 ---
 
-Thank You Everyone for contributing 
+Thank You Everyone for contributing
 
 # Hacktoberfest
 
