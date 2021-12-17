@@ -10,7 +10,7 @@ Thank You Everyone for contributing
 
 # Hacktoberfest
 
-![Watch The Video](https://camunda.com/wp-content/uploads/2021/08/Hacktoberfest2021-Thumbnail.jpg)
+![Watch The Video](https://www.kynetics.com/docs/2018/images/open-source-heading.jpg)
 
 # Hacktoberfest Practice Pull Requests
 
