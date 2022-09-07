@@ -144,4 +144,7 @@ Hurray! You successfully made a contribution!
 
 - [Khushboo Shakya](https://github.com/khushooshakya)
 - [Sahitya Programmer](https://github.com/sahityaprogrammer)
+
+- [Sameer Programmer](https://github.com/sahityaprogrammer)
+
 - [Soumalya Hajra](https://github.com/SoumalyA007)
