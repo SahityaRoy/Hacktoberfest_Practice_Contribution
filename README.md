@@ -134,6 +134,7 @@ Hurray! You successfully made a contribution!
 ## <ins>Hacktoberfest community<ins>
 
 - ### Members Name
+- [Ishika Saraf](https://github.com/Ishikasaraf20)
 - [Neeraj Kumar Singh](https://github.com/neerajsingh869)
 
 - [Priya Chandak](https://github.com/PriyaChandak24)
@@ -143,4 +144,7 @@ Hurray! You successfully made a contribution!
 
 - [Khushboo Shakya](https://github.com/khushooshakya)
 - [Sahitya Programmer](https://github.com/sahityaprogrammer)
+
 - [Sameer Programmer](https://github.com/sahityaprogrammer)
+
+- [Soumalya Hajra](https://github.com/SoumalyA007)
