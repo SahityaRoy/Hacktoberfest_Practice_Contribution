@@ -134,6 +134,8 @@ Hurray! You successfully made a contribution!
 ## <ins>Hacktoberfest community<ins>
 
 - ### Members Name
+
+- [Aditya Pratap](https://github.com/Aditya-Pratap-01)
 - [Ishika Saraf](https://github.com/Ishikasaraf20)
 - [Neeraj Kumar Singh](https://github.com/neerajsingh869)
 
