@@ -152,3 +152,5 @@ Hurray! You successfully made a contribution!
 - [Sameer Programmer](https://github.com/sahityaprogrammer)
 
 - [Soumalya Hajra](https://github.com/SoumalyA007)
+
+- [Anushree Agarwala](https://github.com/agarwalaanushree)
