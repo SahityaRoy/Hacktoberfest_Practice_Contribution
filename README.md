@@ -13,19 +13,22 @@ We have other repositories in the organisation you can contribute to. If you wou
 
 ![Watch The Video](https://www.kynetics.com/docs/2018/images/open-source-heading.jpg)
 
+
 # Hacktoberfest Practice Pull Requests
 
 Repo for you to raise a Pull Request for practice.
 
 **Just add your name, Linkedin url, or other social media link on HTML file**
 
+
 ## How to contribute
 
 1. Fork the project
 2. Make any changes in your forked repo
-3. On this repo, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
+3. On this repo, click [Pull Requests](https://github.com/SahityaRoy/Hacktoberfest_Practice_Contribution/pulls) and raise a [Pull Request](https://github.com/SahityaRoy/Hacktoberfest_Practice_Contribution/compare) selecting your fork on the right drop down
 
-Questions can be asked by raising an `Issue`.
+> Questions can be asked by raising an [Issue](https://github.com/SahityaRoy/Hacktoberfest_Practice_Contribution/issues/new).
+
 
 ## How to clone repo and make changes locally
 
@@ -36,7 +39,7 @@ Questions can be asked by raising an `Issue`.
 - Using git on your local machine. Do this to download the forked copy of this repo to your computer
 
 ```
-  git clone https://github.com/yourGithubUsername/Hacktoberfest_Practice_Contribution
+  git clone https://github.com/YOUR_GITHUB_USERNAME/Hacktoberfest_Practice_Contribution
 ```
 
 - switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
@@ -103,7 +106,7 @@ or
 
 - Wait for your changes to be merged
 
-Hurray! You successfully made a contribution!
+Hurray! You've successfully made a contribution!
 
 <h1 align=center> Project Admin ❤️ </h1>
 <p align="center">
@@ -131,20 +134,25 @@ Hurray! You successfully made a contribution!
 
 # If You don't know HTML then Simply Add Your Name and GitHub Url Over README.md file
 
+
 ## <ins>Hacktoberfest community<ins>
 
 - ### Members Name
 
 - [Aditya Pratap](https://github.com/Aditya-Pratap-01)
+
 - [Ishika Saraf](https://github.com/Ishikasaraf20)
+
 - [Neeraj Kumar Singh](https://github.com/neerajsingh869)
 
 - [Priya Chandak](https://github.com/PriyaChandak24)
+
 - [Prajwal Benedict A](https://github.com/BENEDICT9845)
 
 - [Saurav Mukherjee](https://github.com/SauravMukherjee44)
 
 - [Khushboo Shakya](https://github.com/khushooshakya)
+
 - [Sahitya Programmer](https://github.com/sahityaprogrammer)
 
 - [Amar Sansil](https://github.com/amarsansil)
@@ -152,4 +160,5 @@ Hurray! You successfully made a contribution!
 - [Sameer Programmer](https://github.com/sahityaprogrammer)
 
 - [Soumalya Hajra](https://github.com/SoumalyA007)
+
 - [Esha Mishra](https://github.com/EMash103)
