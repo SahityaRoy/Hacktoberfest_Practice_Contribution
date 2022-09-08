@@ -152,3 +152,9 @@ Hurray! You successfully made a contribution!
 - [Sameer Programmer](https://github.com/sahityaprogrammer)
 
 - [Soumalya Hajra](https://github.com/SoumalyA007)
+
+- [Ruchit Gupta](https://github.com/RuchitGupta12)
+
+- [Ayusman Singhal](https://github.com/Ayusman-Singhal)
+
+
