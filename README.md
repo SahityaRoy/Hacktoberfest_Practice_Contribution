@@ -152,3 +152,4 @@ Hurray! You successfully made a contribution!
 - [Sameer Programmer](https://github.com/sahityaprogrammer)
 
 - [Soumalya Hajra](https://github.com/SoumalyA007)
+-[snehasish bhakat](https://github.com/Snehasih)
