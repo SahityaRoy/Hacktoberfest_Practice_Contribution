@@ -1,10 +1,10 @@
-# Hacktoberfest 2022 Practice Contribution and beginner practice Repo
+# Hacktoberfest 2022 Practice Contribution and Beginner Practice Repository
 
-Hacktoberfest is a month long event where people are awarded for contributing to open source projects 🙌, and we're joining the party .Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
+Hacktoberfest is a month long event where people are awarded for contributing to open source projects 🙌, and we're joining the party hosted by DigitalOcean for the 8th year in a row. Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
 
 Open source Community is one of the cool community, you can work with amazing folks contribute to large scale projects.
 
-We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo.
+We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repository.
 
 ---
 
@@ -15,7 +15,7 @@ We have other repositories in the organisation you can contribute to. If you wou
 
 # Hacktoberfest Practice Pull Requests
 
-Repo for you to raise a Pull Request for practice.
+Repository for you to raise a Pull Request for practice.
 
 **Just add your name, Linkedin url, or other social media link on HTML file**
 
@@ -23,19 +23,19 @@ I am looking For a mentor (7584926589) Please contact with me
 
 ## How to contribute
 
-1. # Start the Repo and then Fork the project
-2. Make any changes in your forked repo
-3. On this repo, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
+1. # Start the Repository and then Fork the project
+2. Make any changes in your forked repository
+3. On this repository, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
 
 Questions can be asked by raising an `Issue`.
 
-## How to clone repo and make changes locally
+## How to clone repository and make changes locally
 
 ```
   click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
 ```
 
-- Using git on your local machine. Do this to download the forked copy of this repo to your computer
+- Using git on your local machine. Do this to download the forked copy of this repository to your computer
 
 ```
   git clone https://github.com/yourGithubUsername/Hacktoberfest_Practice_Contribution
