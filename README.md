@@ -157,3 +157,4 @@ Hurray! You successfully made a contribution!
 
 - [Soumalya Hajra](https://github.com/SoumalyA007)
 - [Esha Mishra](https://github.com/EMash103)
+- [Kunal Virdi](https://github.com/Kunal-Virdi)
