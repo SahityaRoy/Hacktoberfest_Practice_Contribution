@@ -158,7 +158,11 @@ Hurray! You successfully made a contribution!
 - [Soumalya Hajra](https://github.com/SoumalyA007)
 - [Esha Mishra](https://github.com/EMash103)
 
+- [Aditya Choudhary](https://github.com/aditya1844)
+
+
 - [Naeva Setia](https://github.com/naevasetia)
 
 - [Adarsh](https://github.com/adarshpandey19101)
+
 
