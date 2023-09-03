@@ -10,7 +10,6 @@ We have other repositories in the organisation you can contribute to. If you wou
 
 ---
 
-
 # Hacktoberfest
 
 ![Watch The Video](https://www.kynetics.com/docs/2018/images/open-source-heading.jpg)
@@ -160,13 +159,10 @@ Hurray! You successfully made a contribution!
 
 - [Pratishtha](https://github.com/pratishtha05)
 
-
 - [Aditya Choudhary](https://github.com/aditya1844)
-
 
 - [Naeva Setia](https://github.com/naevasetia)
 
 - [Adarsh](https://github.com/adarshpandey19101)
 
-
-
+- [Bhakti](https://github.com/Bhakti087)
