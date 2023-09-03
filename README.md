@@ -166,4 +166,3 @@ Hurray! You successfully made a contribution!
 - [Adarsh](https://github.com/adarshpandey19101)
 
 - [Bhakti](https://github.com/Bhakti087)
-- [Bhakti](https://github.com/Bhakti087)
